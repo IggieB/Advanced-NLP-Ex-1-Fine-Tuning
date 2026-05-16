@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="223a8076-8f91-4708-a57d-92ff54968176" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/EX1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/outputs/prediction_run/predictions.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/outputs/res.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/train_loss.png" afterDir="false" />
-    </list>
+    <list default="true" id="223a8076-8f91-4708-a57d-92ff54968176" name="Changes" comment="16.5 - Initial completion of all required files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/IggieB/Advanced-NLP-Ex-1-Fine-Tuning.git",
+    "accountId": "d89fb327-a46c-4271-a71c-dd50f0615509"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -65,6 +59,19 @@
       <option name="presentableId" value="Default" />
       <updated>1777357623631</updated>
     </task>
+    <task id="LOCAL-00001" summary="16.5 - Initial completion of all required files">
+      <option name="closed" value="true" />
+      <created>1778952003489</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1778952003489</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="16.5 - Initial completion of all required files" />
+    <option name="LAST_COMMIT_MESSAGE" value="16.5 - Initial completion of all required files" />
   </component>
 </project>
