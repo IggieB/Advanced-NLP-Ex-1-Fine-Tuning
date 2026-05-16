@@ -1,0 +1,8 @@
+numpy
+wandb
+datasets
+transformers
+evaluate
+torch
+scikit-learn
+transformers[torch]
