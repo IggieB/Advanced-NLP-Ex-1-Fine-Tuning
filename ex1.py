@@ -245,5 +245,11 @@ def main():
         print("Predictions saved to predictions.txt")
 
 
+# TODO:
+#  1. Fix readme
+#  2. Remove testing code line
+#  3. Fix project folders
+
+
 if __name__ == "__main__":
     main()
