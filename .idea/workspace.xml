@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="223a8076-8f91-4708-a57d-92ff54968176" name="Changes" comment="16.5 - Initial completion of all required files" />
+    <list default="true" id="223a8076-8f91-4708-a57d-92ff54968176" name="Changes" comment="16.5 - Readme.md changes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex1.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +23,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "IggieB"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/IggieB/Advanced-NLP-Ex-1-Fine-Tuning.git",
@@ -67,11 +76,20 @@
       <option name="project" value="LOCAL" />
       <updated>1778952003489</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="16.5 - Readme.md changes">
+      <option name="closed" value="true" />
+      <created>1778952332939</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1778952332939</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="16.5 - Initial completion of all required files" />
-    <option name="LAST_COMMIT_MESSAGE" value="16.5 - Initial completion of all required files" />
+    <MESSAGE value="16.5 - Readme.md changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="16.5 - Readme.md changes" />
   </component>
 </project>
