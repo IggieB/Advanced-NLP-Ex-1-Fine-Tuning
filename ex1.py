@@ -224,31 +224,11 @@ def main():
         with open(os.path.join(prediction_args.output_dir,
                                "predictions.txt"), "w") as f:
             for i in range(len(predicted_labels)):
-                # line = (f"{selected_predict_dataset['sentence1'][i]}###"
-                #         f"{selected_predict_dataset['sentence2'][i]}###"
-                #         f"{predicted_labels[i]}")
-                # TODO: TEMP FOR QUAL ANALYSIS!
-                gold_truth = tokenized_predict[i]["labels"]
                 line = (f"{selected_predict_dataset['sentence1'][i]}###"
                         f"{selected_predict_dataset['sentence2'][i]}###"
-                        f"{predicted_labels[i]}###{gold_truth}")
+                        f"{predicted_labels[i]}")
                 f.write(f"{line}\n")
-        # check test accuracy for analysis
-        # test_results = prediction_trainer.evaluate(tokenized_predict)
-        # print(f"Test accuracy: {test_results['eval_accuracy']:.4f}")
-        # with open(os.path.join(prediction_args.output_dir,
-        #         f"test__accuracy_results.txt"), "a") as f:
-        #     f.write(
-        #         f"model: {args.model_path}, "
-        #         f"test_acc: {test_results['eval_accuracy']:.4f}\n"
-        #     )
         print("Predictions saved to predictions.txt")
-
-
-# TODO:
-#  1. Fix readme
-#  2. Remove testing code line
-#  3. Fix project folders
 
 
 if __name__ == "__main__":
