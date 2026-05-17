@@ -1,0 +1,4 @@
+model: outputs/model_ep3_lr2e-05_bs8, test_acc: 0.8290
+model: outputs/model_ep3_lr3e-05_bs8, test_acc: 0.8301
+model: outputs/model_ep4_lr3e-05_bs16, test_acc: 0.8307
+model: outputs/model_ep2_lr3e-05_bs32, test_acc: 0.7803

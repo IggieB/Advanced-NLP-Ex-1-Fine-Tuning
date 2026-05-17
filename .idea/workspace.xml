@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="223a8076-8f91-4708-a57d-92ff54968176" name="Changes" comment="16.5 - Readme.md changes">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="223a8076-8f91-4708-a57d-92ff54968176" name="Changes" comment="17.5 - Readme.md changes (Github formatting)">
+      <change afterPath="$PROJECT_DIR$/outputs/prediction_run/analysis files/test__accuracy_results.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/prediction_run/analysis files/validation_predictions_best.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/prediction_run/analysis files/validation_predictions_worst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +23,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
@@ -43,16 +50,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.ex1.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.ex1.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "Avigail"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -84,12 +91,21 @@
       <option name="project" value="LOCAL" />
       <updated>1778952332939</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="17.5 - Readme.md changes (Github formatting)">
+      <option name="closed" value="true" />
+      <created>1779031709632</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1779031709632</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="16.5 - Initial completion of all required files" />
     <MESSAGE value="16.5 - Readme.md changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="16.5 - Readme.md changes" />
+    <MESSAGE value="17.5 - Readme.md changes (Github formatting)" />
+    <option name="LAST_COMMIT_MESSAGE" value="17.5 - Readme.md changes (Github formatting)" />
   </component>
 </project>
